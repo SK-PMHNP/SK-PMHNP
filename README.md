@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- I'm a current student in the Master of Computer and Information Technology program at the University of Pennsylvania
+- I'm a psychiatric nurse practitioner working on building my skills in computer science.
